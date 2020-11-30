@@ -1,7 +1,11 @@
 # video
 
 # first clone the repo (linux based instructions, Ubuntu 20.+):
+
+# go to home folder
 cd ~
+
+# clone repo
 git clone https://github.com/aruilova/video.git
 
 # run video test (currently core dumps when terminated, ok for now)
